@@ -1,0 +1,1 @@
+print ("file thu 2 content")
