@@ -1,2 +1,2 @@
-print ("Hello world !!!!!!!")
-print ("2nd line lallalala")
+print ("LAlalalal")
+print ("2nd ")
